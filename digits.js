@@ -1,4 +1,4 @@
-function isDigit(s) {
+  function isDigit(s) {
   if(parseFloat(s) == s) {
     return true
   } else {
